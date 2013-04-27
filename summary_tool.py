@@ -3,7 +3,7 @@ from __future__ import division
 import re
 
 # This is a naive text summarization algorithm
-# Create by Shlomi Babluki
+# Created by Shlomi Babluki
 # April, 2013
 
 
